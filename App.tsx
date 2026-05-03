@@ -1,4 +1,5 @@
 import { useState, useEffect } from 'react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Header } from './Header';
 import TouristRegistration from './TouristRegistration';
 import { TouristDashboard } from './TouristDashboard';
@@ -53,6 +54,7 @@ function App() {
       <AuthProvider>
         <LocationProvider>
           <AppContent />
+          <SpeedInsights />
         </LocationProvider>
       </AuthProvider>
     </LanguageProvider>
