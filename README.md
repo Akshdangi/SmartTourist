@@ -78,7 +78,7 @@ This system is built with a "Privacy First" architecture:
 
 ## 📸 Screenshots
 
-*(Coming Soon - A visual showcase of the Glassmorphism UI and the Police Command Center)*
+*(Coming Soon - A visual showcase of the website will be coming soon.)*
 
 ---
 
